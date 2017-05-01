@@ -94,4 +94,3 @@ public class LetterInventory {
 		return combine;
 	}
 }
-
